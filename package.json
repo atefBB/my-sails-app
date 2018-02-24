@@ -32,6 +32,6 @@
     "type": "git",
     "url": "https://github.com/atefBB/my-sails-app.git"
   },
-  "author": "atef",
+  "author": "Atef Ben Ali <atef.bettaib@gmail.com>",
   "license": ""
 }
